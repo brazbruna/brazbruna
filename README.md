@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Sou estudante do Segundo Período de Sistemas da Informação na UFRPE. <br>🎯 Atualmente estou estudando programação com Python e Redes. <br></p>
+<p align="left">📚 Sou estudante do Segundo Período de Sistemas da Informação na UFRPE. <br>🎯 Atualmente estou estudando programação com Python, SQL, Redes e Cibersegurança. <br></p>
 
 
 ###
