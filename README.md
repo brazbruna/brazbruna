@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋Eu sou a Bruna Braz?</h1>
+<h1 align="left">Olá 👋Eu sou a Bruna Braz.</h1>
 
 ###
 
