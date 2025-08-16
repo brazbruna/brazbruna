@@ -2,14 +2,12 @@
 
 ###
 
-🎓 **Estudante de Sistemas de Informação** no segundo período da UFRPE (Universidade Federal Rural de Pernambuco).
+🎓 **Estudante de Sistemas de Informação** no terceiro período da UFRPE (Universidade Federal Rural de Pernambuco).
 
 <p align="left"> 📚 🔧 <strong>Atualmente, estou focada em</strong>:</p>
     
 - 🐍 **Programação com Python**: Aprendendo a lógica de programação, estrutura de dados e algoritmos e automação de tarefas.
-  
-- ⚙️ **Programação com C**:  Aprofundando os conceitos de lógica, controle de fluxo e estruturas de dados de forma mais próxima da máquina.
-  
+    
 - 🔒 **Redes de Computadores**: Compreendendo a configuração de redes, protocolos e segurança de redes.
   
 
