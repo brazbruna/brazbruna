@@ -6,7 +6,7 @@
 
 <p align="left"> 📚 🔧 <strong>Atualmente, estou focada em</strong>:</p>
     
-- 🐍 **Programação com Python**: Aprendendo a lógica de programação, estrutura de dados e algoritmos e automação de tarefas.
+- 🐍 **Programação com Python**: Aprendendo a lógica de programação e automação de tarefas.
     
 - 🔒 **Redes de Computadores**: Compreendendo a configuração de redes, protocolos e segurança de redes.
   
@@ -25,8 +25,6 @@
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-
 </div>
 
 ###
